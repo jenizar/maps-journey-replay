@@ -17,8 +17,7 @@ Browse : http://localhost/maps-journey-replay/demo/journey-replay.html
 
 ## Demo
 
-Youtube video:
-https://youtu.be/7bxug0BI2NM
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7bxug0BI2NM/0.jpg)](http://www.youtube.com/watch?v=7bxug0BI2NM)
 
 ## Journey JSON format
 
