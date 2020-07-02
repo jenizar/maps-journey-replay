@@ -1,7 +1,7 @@
 # maps-journey-replay
 Javascript Library that loads a journey JSON object (coordinates + timestamp) and creates a replay on a map.
 
-![alt text](https://github.com/jenizar/maps-journey-replay/tree/master/demo/images)
+![alt text](https://github.com/jenizar/maps-journey-replay/blob/master/demo/images/Screenshot.png)
 
 # Requirement
 Google Map API Key
