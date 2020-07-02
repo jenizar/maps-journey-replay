@@ -13,7 +13,7 @@ Google Map API Key
 4. insert your Google Map API Key
 <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&amp;libraries=geometry&amp;callback=initMap"></script>
 
-Browse http://localhost/maps-journey-replay/demo/journey-replay.html
+Browse : http://localhost/maps-journey-replay/demo/journey-replay.html
 
 ## Demo
 
